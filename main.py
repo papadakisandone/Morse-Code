@@ -1,5 +1,3 @@
-# 1 TIME UNIT = 1024 MICROSECONDS
-# 1024 MICROSECONDS = 0.001024 SECONDS
 """
 There are rules to help people distinguish dots from dashes in Morse code.
 The length of a dot is 1 time unit.
